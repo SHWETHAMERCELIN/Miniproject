@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.themeforest.net	TRUE	/	FALSE	1999999999	__cf_bm	ivmUWSRwziTcuostOoCKm_Ca68_fxmBrMFEiwqcRh.4-1711898418-1.0.1.1-i3Bhw1R6wax0Jb4cuPdkeGaodzTlsThE8BQPzYIWib0TZutZIfMw3OS5EMpD2ztk1Qo9rhTybUU8i1FSnxgosw
+preview.themeforest.net	TRUE	/	FALSE	1999999999	SameSite	None
+
